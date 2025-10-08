@@ -20,8 +20,19 @@ This collection aligns closely with Cisco’s core networking curriculum and foc
 
 ## 📂 Folder Structure
 cisco-notes/
+|-- README.md
+|-- 0 - Networking/
+|---- IP Addressing, Routing
+|-- 1 - Basic Device Configuration/
+|---- Router & Switch Hardening, SSH, Password Security
+|-- 2 - Switching/
+|---- VLANs, VTP, Trunking, EtherChannel, STP, Port Security
+|-- 3 - Routing/
+|---- Static, Default, and Dynamic Routing (RIP, EIGRP, OSPF, BGP)
+|---- DHCP, Relay Agents, and Inter-VLAN Routing
+
 ├── 0.x - Foundational Networking/
-│ ├── IP Addressing, OSI Model, Network Devices, Tools
+│ ├── IP Addressing, Routing
 ├── 1.x - Secure Configuration/
 │ ├── Router & Switch Hardening, SSH, AAA, Password Security
 ├── 2.x - Switching/
