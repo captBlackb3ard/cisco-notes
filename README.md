@@ -99,7 +99,7 @@ By completing these labs, you will:
 ## 🏴 Author
 
 **Marcel Blackbeard**  
-*IT & Cybersecurity Professional | Network Engineer | Educator*  
+*IT & Cybersecurity Professional*  
 💼 [LinkedIn](https://linkedin.com/in/marcel-blackbeard) • 🌐 [Cybersec Captain Blackbeard](https://www.blackbeardcyber.com)
 
 ---
