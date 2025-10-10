@@ -84,16 +84,6 @@ By completing these labs, you will:
 
 - **Cisco Packet Tracer**
 - **Cisco IOS CLI**
-- Markdown documentation for reference and note-taking
-
----
-
-## 🧠 Recommended Audience
-
-- CCNA / CCNP students  
-- IT professionals transitioning into networking roles  
-- System administrators expanding into network operations  
-- Cybersecurity students seeking strong foundational network knowledge
 
 ---
 
