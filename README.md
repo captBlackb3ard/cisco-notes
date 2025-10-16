@@ -63,8 +63,8 @@ cisco-notes/
 
 1. Open `.pkt` files in **Cisco Packet Tracer**.
 2. Follow along with the corresponding `.md` guide.
-3. Execute configuration commands in the CLI.
-4. Test connectivity with `ping`, `show`, and `debug` commands.
+3. Copy-Paste and execute configuration commands in the CLI.
+4. Test connectivity with `ping`, `tracert`, and `show` commands.
 5. Modify topologies to experiment and reinforce understanding.
 
 ---
