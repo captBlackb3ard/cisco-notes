@@ -37,16 +37,16 @@
 	- Radius
 	- DNS
 + Firewalls:
-	- ASA 5500-X (2 Units)
+	- ASA 5506 (2 Units) - Simulate ASA 5500-X Series.
 + Switching:
-	- Catalyst 3850 48-Port (2 Units)
-	- Catalyst 2960 48-Port
+	- Catalyst 3650 28-Port (2 Units) - Simulate 3850 48-Port Layer 3 Switches
+	- Catalyst 2960 28-Port - Simulate 2960 48-Port Layer 2 Switches.
 + Wireless:
 	- Wireless LAN Controllers (2 Units)
 	- Lightweight Access Points
 + VoIP:
 	- IP Phones
-	- Voice Gateway
+	- Voice Gateway - 2811 Router
 
 
 | **L2 Switches** | **L3 Switches** | **Routers**   | **Firewalls** | **Servers**        |
